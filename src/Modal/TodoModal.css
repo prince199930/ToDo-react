@@ -1,0 +1,35 @@
+.edit-modal-container{
+    position:fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background-color: #000000ab;
+    top: 0;
+}
+
+.edit-main-container{
+    position: relative;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    margin-top: 50px;
+    background: white;
+}
+
+.new-data{
+    margin-left: 40px;
+}
+
+.save{
+    width: 52px;
+    height: 6vh;
+    font-size: 15px;
+    margin-left: 100px;
+    margin-top: 27px;
+}
+
+.close{
+    font-size: 12px;
+    margin-left: 552px;
+    margin-top: 16px;
+}
